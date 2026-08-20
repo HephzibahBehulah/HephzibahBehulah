@@ -1,0 +1,54 @@
+name: Update GitHub Profile
+
+on:
+push:
+branches:
+- main
+
+schedule:
+- cron: "17 3 * * *"
+
+workflow_dispatch:
+
+permissions:
+contents: write
+
+jobs:
+update-profile:
+runs-on: ubuntu-latest
+
+```
+steps:
+  - name: Checkout repository
+    uses: actions/checkout@v4
+
+  - name: Set up Python
+    uses: actions/setup-python@v5
+    with:
+      python-version: "3.x"
+
+  - name: Install dependencies
+    run: |
+      python -m pip install --upgrade pip
+      python -m pip install Pillow
+
+  - name: Generate profile SVGs
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    run: |
+      python generate.py
+
+  - name: Commit updated profile
+    run: |
+      git config user.name "github-actions[bot]"
+      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      git add dark_mode.svg light_mode.svg
+
+      if git diff --cached --quiet; then
+        echo "No changes to commit."
+      else
+        git commit -m "Update GitHub profile"
+        git push
+      fi
+```
