@@ -1,124 +1,95 @@
-```markdown
-# Hephzibah Behulah
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg">
+    <img src="./light_mode.svg" alt="Hephzibah Behulah GitHub profile">
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-  <img src="light_mode.svg" alt="Hephzibah Behulah - Elektroniker | Cybersecurity | Data Analytics">
-</picture>
+<h1 align="center">Hephzibah Behulah</h1>
+
+<p align="center">
+  <strong>Elektroniker → Industrial Automation → Programming → Data Analytics → Cybersecurity</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Hephzibahbehulah">
+    <img src="https://img.shields.io/github/followers/Hephzibahbehulah?label=Followers&style=flat-square" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/Hephzibahbehulah?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Hephzibahbehulah?affiliations=OWNER&style=flat-square" alt="GitHub stars">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Hephzibahbehulah&style=flat-square&label=Profile+Views" alt="Profile views">
+</p>
 
 ---
 
+## `$ whoami`
+
+I am an **Elektroniker (Electronics Technician)** based in **Hamburg, Germany**, with a technical background in electronics, electrical systems, troubleshooting, PLC technology, and industrial automation.
+
+I am building my transition into **technology**, with a strong focus on **Cybersecurity and Data Analytics**.
+
+My journey is deliberately built around combining the physical and digital sides of technology:
+
 ```text
-Hephzibahbehulah@profile
-------------------------------------------------------------
-OS:                  Windows 11 | Linux | Android
-Location:            Hamburg, Germany
-Role:                Elektroniker
-Focus:               Cybersecurity & Data Analytics
-Career Path:         Electronics → Automation → Technology
-IDE:                 Visual Studio Code
-------------------------------------------------------------
+Electronics
+     │
+     ▼
+Industrial Automation & PLC
+     │
+     ▼
+Programming
+     │
+     ▼
+Data Analytics
+     │
+     ▼
+Cybersecurity
+     │
+     ▼
+Technology Career
+```
 
-Languages.Programming:
-                     Python | JavaScript | SQL
-Languages.Web:
-                     HTML | CSS
-Languages.Data:
-                     Pandas | NumPy | Matplotlib
-Languages.Computer:
-                     JSON | YAML
+I learn by building, experimenting, breaking things, understanding why they break, and building them better.
 
-Languages.Spoken:
-                     English | German
-------------------------------------------------------------
+---
 
-Tech.Interests:
-                     Cybersecurity
-                     Data Analytics
-                     Python
-                     Machine Learning
-                     Web Development
-                     MERN Stack
-                     PLC & Industrial Automation
-                     Electronics
-------------------------------------------------------------
+## `$ cat current_focus.txt`
 
-Background:
-                     Electronics & Electrical Systems
-                     Industrial Automation
-                     PLC Technology
-                     Technical Troubleshooting
-                     System Diagnostics
+```text
+CURRENT FOCUS
+──────────────────────────────────────────────
 
-Currently.Learning:
-                     Cybersecurity
-                     Data Analytics
-                     Python
-                     SQL
-                     Machine Learning
-                     Software Development
+[+] Cybersecurity
+[+] Data Analytics
+[+] Python
+[+] SQL
+[+] Machine Learning
+[+] Linux
+[+] Networking
+[+] Web Development
+[+] MERN Stack
+[+] PLC & Industrial Automation
+[+] Electronics
 
-Future.Direction:
-                     Cybersecurity
-                     Data Analytics
-                     Technology & Automation
-------------------------------------------------------------
-
-GitHub:
-                     github.com/Hephzibahbehulah
-------------------------------------------------------------
+──────────────────────────────────────────────
 ```
 
 ---
 
-## 👋 About Me
+## `$ cat technical_background.txt`
 
-I am an **Elektroniker (Electronics Technician)** based in Hamburg, Germany, with a technical background in electronics, electrical systems, troubleshooting, PLC technology, and industrial automation.
+### Electronics & Industrial Automation
 
-I am currently building my career in **technology**, with a strong focus on **Cybersecurity and Data Analytics**.
-
-My transition is intentional:
-
-**Electronics → Industrial Automation → Programming → Data Analytics → Cybersecurity**
-
-I believe the combination of hardware knowledge, automation, programming, data, and cybersecurity creates a powerful technical foundation for solving real-world problems.
-
-I am focused on learning by building practical projects, understanding systems from the ground up, and continuously developing skills that can be applied in real-world technology environments.
-
----
-
-## 🛠️ What I'm Learning
-
-- Cybersecurity fundamentals
-- Networking and system security
-- Linux
-- Python
-- SQL
-- Data Analytics
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Visualization
-- Machine Learning
-- Web Development
-- MERN Stack
-- PLC Programming
-- Industrial Automation
-
----
-
-## ⚡ Technical Background
-
-### Electronics & Automation
-
-My professional background is in electronics and electrical technology.
+My professional foundation is in electronics and electrical technology.
 
 ```text
 Electronics
-│
 ├── Electrical Systems
 ├── Electronic Components
-├── Troubleshooting
-├── Technical Diagnostics
+├── Technical Troubleshooting
+├── System Diagnostics
 │
 └── Industrial Automation
     ├── PLC
@@ -126,17 +97,16 @@ Electronics
     └── Automation
 ```
 
-This background gives me a practical understanding of how physical systems, control systems, hardware, and software interact.
+This gives me a practical understanding of how hardware, control systems, software, and real-world industrial processes interact.
 
 ---
 
-## 🔒 Cybersecurity
+## `$ cat cybersecurity.txt`
 
-I am developing my cybersecurity skills with a focus on understanding how computer systems, networks, applications, and data can be protected.
+I am developing practical cybersecurity knowledge with an emphasis on understanding systems rather than simply memorising tools.
 
 ```text
 Cybersecurity
-│
 ├── Security Fundamentals
 ├── Networking
 ├── Linux
@@ -146,17 +116,16 @@ Cybersecurity
 └── Practical Security Projects
 ```
 
-My long-term goal is to combine my existing technical and automation background with cybersecurity knowledge.
+My long-term objective is to combine my electronics and automation background with cybersecurity to understand and protect increasingly connected technical systems.
 
 ---
 
-## 📊 Data Analytics
+## `$ cat data_analytics.txt`
 
-I am also developing practical data analytics skills using Python and related tools.
+I am developing data analytics skills with Python and related tools.
 
 ```text
 Data Analytics
-│
 ├── Python
 ├── Pandas
 ├── NumPy
@@ -169,155 +138,163 @@ Data Analytics
 └── Machine Learning
 ```
 
-I am particularly interested in turning raw data into useful information that can support better technical and business decisions.
+The goal is not simply to produce charts.
+
+The goal is to turn raw data into information, information into insight, and insight into better decisions.
 
 ---
 
-## 🚀 Projects & Learning
+## `$ ls ./projects`
 
-### Learn Cybersecurity Like a Dummie
+### `learn-cybersecurity-like-a-dummie`
 
 A personal cybersecurity learning project containing structured notes, concepts, explanations, and practical learning material.
 
-### Data Analytics Projects
+### `data-analytics-projects`
 
 Python-based projects focused on data preparation, exploration, visualization, analysis, and machine learning.
 
-### Pump It Up — Data Mining the Water Table
+### `pump-it-up-data-mining`
 
-A data science project involving data cleaning, feature engineering, exploratory analysis, and predictive modeling.
+A data science project based on the **Pump It Up: Data Mining the Water Table** challenge, involving data preparation, feature engineering, exploratory analysis, and predictive modelling.
 
-### MERN Stack Projects
+### `mern-stack-projects`
 
-Practical web development projects exploring modern full-stack application development.
+Practical full-stack web development projects exploring modern JavaScript-based application development.
 
-### PLC & Automation Projects
+### `plc-automation-projects`
 
-Projects and experiments related to PLC programming, industrial automation, control systems, and PLC simulation.
-
----
-
-## 🗺️ My Technology Journey
-
-```text
-                 ┌─────────────────────┐
-                 │     ELECTRONICS     │
-                 │   Electrical Tech   │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │ INDUSTRIAL AUTOMATION│
-                 │    PLC / Controls   │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │     PROGRAMMING     │
-                 │ Python / SQL / Web  │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │    DATA ANALYTICS   │
-                 │ Data / ML / Insights│
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │    CYBERSECURITY    │
-                 │ Security / Systems  │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │    TECH CAREER      │
-                 │ Build • Analyze •   │
-                 │ Secure • Automate   │
-                 └─────────────────────┘
-```
+Projects and experiments involving PLC technology, industrial automation, control systems, and PLC simulation.
 
 ---
 
-## 💻 Tools & Technologies
+## `$ cat technology_stack.txt`
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,linux,windows,vscode,git,github" alt="Technology icons" />
+### Programming & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,linux,windows,vscode,git,github" alt="Technology stack">
 </p>
 
-### Data & Analytics
-
-Python • Pandas • NumPy • Matplotlib • SQL • Machine Learning
-
-### Development
-
-Python • JavaScript • HTML • CSS • MERN Stack
-
-### Systems
-
-Linux • Windows • Networking • System Administration Fundamentals
-
-### Automation
-
-PLC • Industrial Automation • Control Systems • Electronics
-
-### Cybersecurity
-
-Security Fundamentals • Networking • Linux • System Security • Vulnerability Concepts
-
----
-
-## 📈 GitHub Statistics
-
-![Hephzibah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hephzibahbehulah&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hephzibahbehulah&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Hephzibahbehulah&theme=tokyonight)
-
----
-
-## 🏗️ Currently Building
-
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  Electronics                                             │
-│       ↓                                                  │
-│  Industrial Automation                                   │
-│       ↓                                                  │
-│  Programming                                             │
-│       ↓                                                  │
-│  Data Analytics                                          │
-│       ↓                                                  │
-│  Cybersecurity                                           │
-│       ↓                                                  │
-│  Technology Career                                       │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+Programming     Python | JavaScript
+Data            Pandas | NumPy | Matplotlib | SQL
+Web             HTML | CSS | MERN Stack
+Systems         Linux | Windows | Networking
+Automation      PLC | Industrial Automation | Control Systems
+Cybersecurity   Security Fundamentals | Linux | Networking
 ```
 
-I am building a technology career around **practical technical knowledge**, combining the physical world of electronics and automation with the digital world of programming, data, and cybersecurity.
-
 ---
 
-## 🔗 Connect With Me
-
-- GitHub: [https://github.com/Hephzibahbehulah](https://github.com/Hephzibahbehulah)
-- Location: Hamburg, Germany
-
----
+## `$ cat career_direction.txt`
 
 ```text
-------------------------------------------------------------
-
-                    HEPHZIBAH BEHULAH
-
-        Elektroniker | Cybersecurity | Data Analytics
-
-             Electronics → Automation → Technology
-
-       Building. Analyzing. Automating. Securing.
-
-------------------------------------------------------------
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│              HEPHZIBAH BEHULAH                     │
+│                                                     │
+│  Electronics Technician                             │
+│             │                                       │
+│             ▼                                       │
+│  Industrial Automation                              │
+│             │                                       │
+│             ▼                                       │
+│  Programming & Python                               │
+│             │                                       │
+│             ▼                                       │
+│  Data Analytics                                     │
+│             │                                       │
+│             ▼                                       │
+│  Cybersecurity                                      │
+│             │                                       │
+│             ▼                                       │
+│  Technology                                         │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
+
+I am building a career at the intersection of **hardware, automation, software, data, and cybersecurity**.
+
+---
+
+## `$ git status`
+
+```text
+Current status:
+
+[██████████████████████████████████████████████████] Building
+
+Career:
+    Elektroniker → Technology
+
+Learning:
+    Cybersecurity
+    Data Analytics
+    Python
+    SQL
+    Machine Learning
+    Software Development
+
+Building:
+    Practical projects
+    Technical knowledge
+    Real-world problem-solving skills
+```
+
+---
+
+## `$ github --stats`
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hephzibahbehulah\&show_icons=true\&hide_border=true\&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hephzibahbehulah\&layout=compact\&hide_border=true\&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Hephzibahbehulah\&hide_border=true\&theme=transparent)
+
+---
+
+## `$ find ./ -maxdepth 1`
+
+```text
+.
+├── README.md
+├── dark_mode.svg
+├── light_mode.svg
+├── generate.py
+└── profile.jpg
+```
+
+---
+
+## `$ echo $MISSION`
+
+> **Build practical technology skills.
+> Understand systems from the ground up.
+> Analyse data.
+> Automate processes.
+> Secure technology.**
+
+---
+
+## `$ echo $LOCATION`
+
+```text
+Hamburg, Germany 🇩🇪
+```
+
+## `$ echo $GITHUB`
+
+```text
+https://github.com/Hephzibahbehulah
+```
+
+---
+
+<p align="center">
+  <sub>Electronics → Automation → Data → Cybersecurity</sub>
+</p>
+
+<p align="center">
+  <sub>Build • Learn • Analyse • Automate • Secure</sub>
+</p>
