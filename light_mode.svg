@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
+<rect width="1200" height="650" rx="28" fill="#ffffff"/>
+<rect x="16" y="16" width="1168" height="618" rx="24" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
+<text x="48" y="54" font-family="monospace" font-size="14" fill="#57606a">HEPHZIBAHBEHULAH@GITHUB:~$ ./profile</text>
+<line x1="48" y1="76" x2="1152" y2="76" stroke="#d0d7de" stroke-width="1"/>
+<rect x="42" y="100" width="570" height="500" rx="18" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+<text x="77" y="130.0" font-family="monospace" font-size="9px" font-weight="700" fill="#24292f" xml:space="preserve">PROFILE IMAGE NOT FOUND</text>
+<text x="77" y="138.2" font-family="monospace" font-size="9px" font-weight="700" fill="#24292f" xml:space="preserve"></text>
+<text x="77" y="146.4" font-family="monospace" font-size="9px" font-weight="700" fill="#24292f" xml:space="preserve">Add your photo as:</text>
+<text x="77" y="154.6" font-family="monospace" font-size="9px" font-weight="700" fill="#24292f" xml:space="preserve">profile.jpg</text>
+<text x="670" y="128" font-family="sans-serif" font-size="38" font-weight="700" fill="#24292f">Hephzibah Behulah</text>
+<text x="670" y="163" font-family="monospace" font-size="16" fill="#0969da">Elektroniker → Automation → Technology</text>
+<text x="670" y="198" font-family="sans-serif" font-size="18" fill="#57606a">Cybersecurity &amp; Data Analytics</text>
+<text x="670" y="228" font-family="sans-serif" font-size="15" fill="#57606a">Hamburg, Germany</text>
+<line x1="670" y1="252" x2="1152" y2="252" stroke="#d0d7de" stroke-width="1"/>
+<text x="670" y="292" font-family="monospace" font-size="12" fill="#57606a">PUBLIC REPOSITORIES</text>
+<text x="920" y="292" font-family="monospace" font-size="17" font-weight="700" fill="#24292f">17</text>
+<text x="670" y="340" font-family="monospace" font-size="12" fill="#57606a">FOLLOWERS</text>
+<text x="920" y="340" font-family="monospace" font-size="17" font-weight="700" fill="#24292f">22</text>
+<text x="670" y="388" font-family="monospace" font-size="12" fill="#57606a">FOLLOWING</text>
+<text x="920" y="388" font-family="monospace" font-size="17" font-weight="700" fill="#24292f">39</text>
+<text x="670" y="436" font-family="monospace" font-size="12" fill="#57606a">TOTAL STARS</text>
+<text x="920" y="436" font-family="monospace" font-size="17" font-weight="700" fill="#24292f">7</text>
+<text x="670" y="484" font-family="monospace" font-size="12" fill="#57606a">TOTAL FORKS</text>
+<text x="920" y="484" font-family="monospace" font-size="17" font-weight="700" fill="#24292f">1</text>
+<text x="670" y="545" font-family="monospace" font-size="12" fill="#57606a">LANGUAGES</text>
+<text x="780" y="545" font-family="monospace" font-size="12" fill="#0969da">Jupyter Notebook • Shell • Python • HTML</text>
+<text x="48" y="628" font-family="monospace" font-size="12" fill="#57606a">Building practical skills in Python, data, cybersecurity, software and automation.</text>
+</svg>
