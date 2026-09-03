@@ -64,13 +64,13 @@
 <text x="670" y="228" font-family="sans-serif" font-size="15" fill="#8b949e">Hamburg, Germany</text>
 <line x1="670" y1="252" x2="1152" y2="252" stroke="#30363d" stroke-width="1"/>
 <text x="670" y="292" font-family="monospace" font-size="12" fill="#8b949e">PUBLIC REPOSITORIES</text>
-<text x="920" y="292" font-family="monospace" font-size="17" font-weight="700" fill="#f0f6fc">17</text>
+<text x="920" y="292" font-family="monospace" font-size="17" font-weight="700" fill="#f0f6fc">19</text>
 <text x="670" y="340" font-family="monospace" font-size="12" fill="#8b949e">FOLLOWERS</text>
 <text x="920" y="340" font-family="monospace" font-size="17" font-weight="700" fill="#f0f6fc">22</text>
 <text x="670" y="388" font-family="monospace" font-size="12" fill="#8b949e">FOLLOWING</text>
 <text x="920" y="388" font-family="monospace" font-size="17" font-weight="700" fill="#f0f6fc">39</text>
 <text x="670" y="436" font-family="monospace" font-size="12" fill="#8b949e">TOTAL STARS</text>
-<text x="920" y="436" font-family="monospace" font-size="17" font-weight="700" fill="#f0f6fc">7</text>
+<text x="920" y="436" font-family="monospace" font-size="17" font-weight="700" fill="#f0f6fc">9</text>
 <text x="670" y="484" font-family="monospace" font-size="12" fill="#8b949e">TOTAL FORKS</text>
 <text x="920" y="484" font-family="monospace" font-size="17" font-weight="700" fill="#f0f6fc">1</text>
 <text x="670" y="545" font-family="monospace" font-size="12" fill="#8b949e">LANGUAGES</text>
