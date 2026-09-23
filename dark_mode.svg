@@ -64,7 +64,7 @@
 <text x="670" y="228" font-family="sans-serif" font-size="15" fill="#8b949e">Hamburg, Germany</text>
 <line x1="670" y1="252" x2="1152" y2="252" stroke="#30363d" stroke-width="1"/>
 <text x="670" y="292" font-family="monospace" font-size="12" fill="#8b949e">PUBLIC REPOSITORIES</text>
-<text x="920" y="292" font-family="monospace" font-size="17" font-weight="700" fill="#f0f6fc">19</text>
+<text x="920" y="292" font-family="monospace" font-size="17" font-weight="700" fill="#f0f6fc">20</text>
 <text x="670" y="340" font-family="monospace" font-size="12" fill="#8b949e">FOLLOWERS</text>
 <text x="920" y="340" font-family="monospace" font-size="17" font-weight="700" fill="#f0f6fc">21</text>
 <text x="670" y="388" font-family="monospace" font-size="12" fill="#8b949e">FOLLOWING</text>
@@ -74,6 +74,6 @@
 <text x="670" y="484" font-family="monospace" font-size="12" fill="#8b949e">TOTAL FORKS</text>
 <text x="920" y="484" font-family="monospace" font-size="17" font-weight="700" fill="#f0f6fc">1</text>
 <text x="670" y="545" font-family="monospace" font-size="12" fill="#8b949e">LANGUAGES</text>
-<text x="780" y="545" font-family="monospace" font-size="12" fill="#58a6ff">Jupyter Notebook • Shell • Python • JavaScript</text>
+<text x="780" y="545" font-family="monospace" font-size="12" fill="#58a6ff">Jupyter Notebook • Shell • Python • CSS</text>
 <text x="48" y="628" font-family="monospace" font-size="12" fill="#8b949e">Building practical skills in Python, data, cybersecurity, software and automation.</text>
 </svg>
