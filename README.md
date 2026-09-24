@@ -36,7 +36,7 @@ That mindset comes from working with real technical systems, where guessing is u
 
 ## What I am building
 
-\`\`\`text
+```text
 HARDWARE
    │
    ▼
@@ -55,7 +55,7 @@ ANALYTICS       SECURITY
    └───────┬───────┘
            ▼
      TECHNOLOGY
-\`\`\`
+```
 
 I am particularly interested in the space where **physical systems, software, data and security meet**.
 
@@ -112,7 +112,7 @@ I am particularly interested in the space where **physical systems, software, da
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,linux,windows,git,github,vscode" alt="Python, JavaScript, HTML, CSS, Linux, Windows, Git, GitHub and VS Code">
 </p>
 
-\`\`\`text
+```text
 Languages       Python • JavaScript • SQL • HTML • CSS
 Data            Pandas • NumPy • Matplotlib • Power BI
 ML              Scikit-learn • Feature Engineering • Model Evaluation
@@ -120,7 +120,7 @@ Security        Networking • Linux • Security Fundamentals • Web Security
 Systems         Linux • Windows • Git • GitHub
 Automation      PLC • Industrial Automation • Control Systems
 Development    VS Code • Git • GitHub
-\`\`\`
+```
 
 ---
 
@@ -144,7 +144,7 @@ This is why my GitHub contains notes, experiments, assignments and projects alon
 
 ## Career direction
 
-\`\`\`text
+```text
 Electronics Technician
         ↓
 Industrial Automation
@@ -156,7 +156,7 @@ Data Analytics
 Cybersecurity
         ↓
 Technology
-\`\`\`
+```
 
 The goal is to bring together the practical discipline of engineering with the problem-solving methods of modern technology.
 
@@ -180,7 +180,7 @@ This profile is a work in progress.
 
 The projects will change as my skills grow. The direction is consistent:
 
-\`\`\`text
+```text
 LEARN
   ↓
 BUILD
@@ -192,7 +192,7 @@ ANALYSE
 SECURE
   ↓
 REPEAT
-\`\`\`
+```
 
 <p align="center">
   <strong>Electronics → Automation → Software → Data → Security</strong>
