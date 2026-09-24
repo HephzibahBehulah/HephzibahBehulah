@@ -74,6 +74,6 @@
 <text x="670" y="484" font-family="monospace" font-size="12" fill="#8b949e">TOTAL FORKS</text>
 <text x="920" y="484" font-family="monospace" font-size="17" font-weight="700" fill="#f0f6fc">1</text>
 <text x="670" y="545" font-family="monospace" font-size="12" fill="#8b949e">LANGUAGES</text>
-<text x="780" y="545" font-family="monospace" font-size="12" fill="#58a6ff">Jupyter Notebook • Shell • Python • CSS</text>
+<text x="780" y="545" font-family="monospace" font-size="12" fill="#58a6ff">Jupyter Notebook • JavaScript • Shell • Python</text>
 <text x="48" y="628" font-family="monospace" font-size="12" fill="#8b949e">Building practical skills in Python, data, cybersecurity, software and automation.</text>
 </svg>
