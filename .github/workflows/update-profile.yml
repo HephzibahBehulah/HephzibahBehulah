@@ -1,17 +1,16 @@
 name: Update GitHub Profile
 
 on:
-  push:
-    branches:
-      - main
-
   schedule:
     - cron: "17 3 * * *"
-
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: update-github-profile
+  cancel-in-progress: true
 
 jobs:
   update-profile:
@@ -33,18 +32,18 @@ jobs:
 
       - name: Generate profile SVGs
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          python generate.py
+          GITHUB_TOKEN: \${{ secrets.GITHUB_TOKEN }}
+        run: python generate.py
 
       - name: Commit updated profile
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add dark_mode.svg light_mode.svg
+
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Update GitHub profile"
+            git commit -m "chore: refresh profile graphics"
             git push
           fi
